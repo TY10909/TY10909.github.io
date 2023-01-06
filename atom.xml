@@ -3,11 +3,11 @@
   <title>..の//</title>
   
   
-  <link href="https://wsp2003.xyz/atom.xml" rel="self"/>
+  <link href="https://js.wsp2003.xyz/atom.xml" rel="self"/>
   
-  <link href="https://wsp2003.xyz/"/>
+  <link href="https://js.wsp2003.xyz/"/>
   <updated>2023-01-04T05:47:10.116Z</updated>
-  <id>https://wsp2003.xyz/</id>
+  <id>https://js.wsp2003.xyz/</id>
   
   <author>
     <name>WSP——熙</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>cs</title>
-    <link href="https://wsp2003.xyz/undefined/c6050a1d.html"/>
-    <id>https://wsp2003.xyz/undefined/c6050a1d.html</id>
+    <link href="https://js.wsp2003.xyz/undefined/c6050a1d.html"/>
+    <id>https://js.wsp2003.xyz/undefined/c6050a1d.html</id>
     <published>2023-01-03T13:22:23.000Z</published>
     <updated>2023-01-04T05:47:10.116Z</updated>
     
@@ -35,14 +35,14 @@
     
     
     
-    <category term="测试" scheme="https://wsp2003.xyz/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="https://js.wsp2003.xyz/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://wsp2003.xyz/undefined/4a17b156.html"/>
-    <id>https://wsp2003.xyz/undefined/4a17b156.html</id>
+    <link href="https://js.wsp2003.xyz/undefined/4a17b156.html"/>
+    <id>https://js.wsp2003.xyz/undefined/4a17b156.html</id>
     <published>2023-01-02T10:57:06.031Z</published>
     <updated>2023-01-04T05:47:10.114Z</updated>
     

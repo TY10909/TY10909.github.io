@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wsp2003.xyz/comments/index.html</loc>
+    <loc>https://js.wsp2003.xyz/link/index.html</loc>
+    
+    <lastmod>2023-01-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://js.wsp2003.xyz/comments/index.html</loc>
     
     <lastmod>2023-01-05</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://wsp2003.xyz/manifest.json</loc>
+    <loc>https://js.wsp2003.xyz/manifest.json</loc>
     
     <lastmod>2023-01-04</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://wsp2003.xyz/bangumis/index.html</loc>
+    <loc>https://js.wsp2003.xyz/bangumis/index.html</loc>
     
     <lastmod>2023-01-04</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://wsp2003.xyz/undefined/c6050a1d.html</loc>
+    <loc>https://js.wsp2003.xyz/undefined/c6050a1d.html</loc>
     
     <lastmod>2023-01-04</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://wsp2003.xyz/undefined/4a17b156.html</loc>
+    <loc>https://js.wsp2003.xyz/undefined/4a17b156.html</loc>
     
     <lastmod>2023-01-04</lastmod>
     
@@ -47,16 +56,7 @@
   </url>
   
   <url>
-    <loc>https://wsp2003.xyz/link/index.html</loc>
-    
-    <lastmod>2023-01-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wsp2003.xyz/categories/index.html</loc>
+    <loc>https://js.wsp2003.xyz/categories/index.html</loc>
     
     <lastmod>2023-01-02</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://wsp2003.xyz/tags/index.html</loc>
+    <loc>https://js.wsp2003.xyz/tags/index.html</loc>
     
     <lastmod>2023-01-02</lastmod>
     
@@ -75,7 +75,7 @@
   
 
   <url>
-    <loc>https://wsp2003.xyz/</loc>
+    <loc>https://js.wsp2003.xyz/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -83,7 +83,7 @@
 
   
   <url>
-    <loc>https://wsp2003.xyz/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://js.wsp2003.xyz/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
