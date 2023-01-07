@@ -93,9 +93,9 @@
   }
   
   /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
-  #page-header:not(.not-top-img):before {
-    background-color: transparent !important;
-  }
+  /*page-header:not(.not-top-img):before {*/
+  /*background-color: transparent !important;*/
+  /*}*/
   
   /* 首页文章卡片 */
   #recent-posts > .recent-post-item {
@@ -164,20 +164,26 @@
   [data-theme="dark"] div#category {
     background: transparent !important;
   }
-  /* 页脚透明 */
-  #footer {
-    background: transparent !important;
-  }
   
-  /* 头图透明 */
-  #page-header {
-    background: transparent !important;
-  }
   
   #rightside > div > button {
     border-radius: 5px;
   }
   
+/* 页脚透明 */
+#footer {
+  background: transparent !important;
+}
+
+/* 头图透明 */
+#page-header {
+  background: transparent !important;
+}
+
+#rightside > div > button {
+  border-radius: 5px;
+}
+
   /* 滚动条 */
   
   ::-webkit-scrollbar {
@@ -261,7 +267,7 @@
   }
   
   /* 404页面 */
-  #error-wrap {
+  /* #error-wrap {
     position: absolute;
     top: 40%;
     right: 0;
@@ -270,7 +276,7 @@
     padding: 0 1rem;
     max-width: 1000px;
     transform: translate(0, -50%);
-  }
+  } */
   
   #error-wrap .error-content {
     display: flex;
