@@ -267,7 +267,7 @@
   }
   
   /* 404页面 */
-  /* #error-wrap {
+  #error-wrap {
     position: absolute;
     top: 40%;
     right: 0;
@@ -276,7 +276,7 @@
     padding: 0 1rem;
     max-width: 1000px;
     transform: translate(0, -50%);
-  } */
+  } 
   
   #error-wrap .error-content {
     display: flex;

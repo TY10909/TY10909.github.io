@@ -29,6 +29,24 @@
   </url>
   
   <url>
+    <loc>https://js.wsp2003.xyz/gallery/index.html</loc>
+    
+    <lastmod>2023-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://js.wsp2003.xyz/gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2023-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://js.wsp2003.xyz/undefined/c6050a1d.html</loc>
     
     <lastmod>2023-01-10</lastmod>
@@ -66,15 +84,6 @@
   
   <url>
     <loc>https://js.wsp2003.xyz/air-conditioner/index.html</loc>
-    
-    <lastmod>2023-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://js.wsp2003.xyz/artitalk/index.html</loc>
     
     <lastmod>2023-01-10</lastmod>
     
