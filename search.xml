@@ -17,6 +17,31 @@
     
     
     <entry>
+      <title>关于标签外挂（外挂标签）的使用</title>
+      <link href="/undefined/fdd68c17.html"/>
+      <url>/undefined/fdd68c17.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> butterfly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 外挂标签 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试</title>
       <link href="/undefined/c6050a1d.html"/>
       <url>/undefined/c6050a1d.html</url>
@@ -66,6 +91,17 @@
       <url>/air-conditioner/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>artitalk</title>
+      <link href="/artitalk/index.html"/>
+      <url>/artitalk/index.html</url>
+      
+        <content type="html"><![CDATA[<!-- 引用 artitalk --><script type="text/javascript" src="https://unpkg.com/artitalk"></script><!-- 存放说说的容器 --><div id="artitalk_main"></div><script>new Artitalk({    appId: 'XGC7T8kGdoC4D1JzrssoutCc-MdYXbMMI', // Your LeanCloud appId    appKey: 'zbbpo2Jzqv2IGKj6FC0irZM4' // Your LeanCloud appKey})</script>]]></content>
       
     </entry>
     
@@ -194,21 +230,10 @@
     
     <entry>
       <title></title>
-      <link href="/js/runtime/runtime.js"/>
-      <url>/js/runtime/runtime.js</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/js/runtime/runtime.min.js"/>
       <url>/js/runtime/runtime.min.js</url>
       
-        <content type="html"><![CDATA[var now=new Date;function createtime(){var t=new Date("02/01/2023 10:00:00");now.setTime(now.getTime()+250);var e=(now-t)/1e3/60/60/24,a=Math.floor(e),n=(now-t)/1e3/60/60-24*a,r=Math.floor(n);1==String(r).length&&(r="0"+r);var s=(now-t)/1e3/60-1440*a-60*r,i=Math.floor(s);1==String(i).length&&(i="0"+i);var o=(now-t)/1e3-86400*a-3600*r-60*i,l=Math.round(o);1==String(l).length&&(l="0"+l);let g="";g=r<18&&r>=9?`<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/希冀-上班摸鱼中.svg' title='距离月入25k也就还差n个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`:`<img class='boardsign' src='https://npm.elemecdn.com/anzhiyu-blog@2.0.3/img/badge/希冀-下班啦.svg' title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=g)}setInterval((()=>{createtime()}),250);]]></content>
+        <content type="html"><![CDATA[var now = new Date; function createtime() { var t = new Date("09/24/2022 00:00:00"); now.setTime(now.getTime() + 250); var e = (now - t) / 1e3 / 60 / 60 / 24, a = Math.floor(e), n = (now - t) / 1e3 / 60 / 60 - 24 * a, r = Math.floor(n); 1 == String(r).length && (r = "0" + r); var s = (now - t) / 1e3 / 60 - 1440 * a - 60 * r, i = Math.floor(s); 1 == String(i).length && (i = "0" + i); var o = (now - t) / 1e3 - 86400 * a - 3600 * r - 60 * i, l = Math.round(o); 1 == String(l).length && (l = "0" + l); let g = ""; g = r < 18 && r >= 9 ? `<img class='boardsign' src='https://cdn.jsdelivr.net/npm/tuchuang.geren@0.0.6/img/badge/域外の客栈-营业中.svg' title='距离月入25k也就还差一个大佬带我~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>` : `<img class='boardsign' src='https://cdn.jsdelivr.net/npm/tuchuang.geren@0.0.6/img/badge/域外の客栈-下班咯.svg' title='下班了就该开开心心的玩耍，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${a} 天</span><span id='runtime'> ${r} 小时 ${i} 分 ${l} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`, document.getElementById("workboard") && (document.getElementById("workboard").innerHTML = g) } setInterval((() => { createtime() }), 250);]]></content>
       
     </entry>
     

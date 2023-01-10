@@ -4,7 +4,7 @@
   <url>
     <loc>https://js.wsp2003.xyz/manifest.json</loc>
     
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,7 @@
   <url>
     <loc>https://js.wsp2003.xyz/link/index.html</loc>
     
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,7 @@
   <url>
     <loc>https://js.wsp2003.xyz/tags/index.html</loc>
     
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>https://js.wsp2003.xyz/undefined/c6050a1d.html</loc>
     
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,16 @@
   <url>
     <loc>https://js.wsp2003.xyz/undefined/4a17b156.html</loc>
     
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://js.wsp2003.xyz/undefined/fdd68c17.html</loc>
+    
+    <lastmod>2023-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +58,7 @@
   <url>
     <loc>https://js.wsp2003.xyz/about/index.html</loc>
     
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +67,16 @@
   <url>
     <loc>https://js.wsp2003.xyz/air-conditioner/index.html</loc>
     
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://js.wsp2003.xyz/artitalk/index.html</loc>
+    
+    <lastmod>2023-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +85,7 @@
   <url>
     <loc>https://js.wsp2003.xyz/bangumis/index.html</loc>
     
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +94,7 @@
   <url>
     <loc>https://js.wsp2003.xyz/categories/index.html</loc>
     
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +103,7 @@
   <url>
     <loc>https://js.wsp2003.xyz/comments/index.html</loc>
     
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +112,7 @@
 
   <url>
     <loc>https://js.wsp2003.xyz/</loc>
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,11 +120,25 @@
   
   <url>
     <loc>https://js.wsp2003.xyz/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-01-08</lastmod>
+    <lastmod>2023-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://js.wsp2003.xyz/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2023-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://js.wsp2003.xyz/categories/butterfly/</loc>
+    <lastmod>2023-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
